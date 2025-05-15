@@ -1,5 +1,7 @@
 # Python Flake
 
+# if it fails it means there are errors
+
 A simple Python project with code quality checks (flake8 and black) set up to run on pull requests to the main branch.
 
 ## Setup
